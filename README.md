@@ -2,7 +2,7 @@
 
 An interactive front-end animation that renders a whale-like shape in **SVG** and makes it **follow the cursor** with a smooth trailing effect. No build step, no framework.
 
-**Author / maintainer:** Sergio Sediq — `https://github.com/SergioSediq`
+**Author: Sergio Sediq
 
 ![Interactive Whale preview](assets/preview.png)
 
