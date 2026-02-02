@@ -173,7 +173,7 @@ Adjust in `interactive-whale.js`:
 
 ## 📜 License
 
-MIT License — free to use, modify, and experiment.
+MIT License, free to use, modify, and experiment.
 
 
 
